@@ -1,6 +1,6 @@
 # Hacksaw static site
 
-![Pipeline workflow](https://github.com/jojo786/hacksaw-static-site/actions/workflows/pipeline.yaml/badge.svg)
+![Pipeline workflow](https://github.com/jojo786/hacksaw-static-site/actions/workflows/uploadtoS3.yaml/badge.svg)
 
 Static home page for hacksaw.co.za, using https://bootstrapmade.com/demo/Eterna/.
 
